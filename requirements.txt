@@ -4,3 +4,5 @@ djangorestframework
 django-filter
 python-decouple
 Pillow
+drf-yasg
+
